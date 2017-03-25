@@ -5,3 +5,4 @@ target
 log
 *.patch
 /1_1_HW0_stream.patch
+/1_2_HW0_cycle.patch

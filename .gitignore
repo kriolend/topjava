@@ -3,6 +3,5 @@ out
 target
 *.iml
 log
-
-
-
+*.patch
+/1_1_HW0_stream.patch
